@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1043308087950-296futs3k7eo2nhpukt2i0l028if98br.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1043308087950-296futs3k7eo2nhpukt2i0l028if98br</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC3q2xeGaSgFOACQzRyeoCfH_e_9iWOXbw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1043308087950</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.zachphelps.sea</string>
+	<key>PROJECT_ID</key>
+	<string>studentengage-c5265</string>
+	<key>STORAGE_BUCKET</key>
+	<string>studentengage-c5265.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1043308087950:ios:5f41800625db9192c517df</string>
+</dict>
+</plist>
